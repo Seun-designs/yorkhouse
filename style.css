@@ -1,0 +1,389 @@
+@media only screen and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    body {
+        background-color: #0860d7;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .header {
+        color: white;
+        font-size: 25px;
+        text-align: end;
+    }
+
+    .footer {
+        color: white;
+        font-size: 25px;
+    }
+
+    .sectionone {
+        width: 480px;
+        height: 700px;
+        background-image: url(mobiletwo.png);
+
+    }
+
+    .grid {
+        display: none;
+    }
+
+    .spaceone {}
+
+    .sectiontwo {
+        height: 730px;
+        text-align: center;
+        padding-left: 10%;
+    }
+
+    .pagone {
+        color: white;
+        font-size: 30px;
+    }
+
+    .sectionthree {
+        height: 800px;
+        width: 480px;
+        display: grid;
+        grid-template-columns: 480px;
+
+        margin: 20px 0px 20px;
+    }
+
+    .divone {
+        height: 400px;
+        width: 480px;
+        background-color: rgb(255, 255, 255);
+        font-size: 40px;
+
+    }
+
+    .divtwo {
+        height: 350px;
+
+    }
+
+    .photothree {
+        width: 100%;
+        height: 100%;
+    }
+
+
+    .spacethree {
+        height: 100px;
+        width: 480px;
+
+    }
+
+    .sectionfive {
+        height: 570px;
+        width: 480px;
+    }
+
+    .divsev {
+        height: 130px;
+        width: 400px;
+        background-color: white;
+        border-radius: 40%;
+        margin-left: 40px;
+        padding-top: 18%;
+    }
+
+    .divnine {
+        text-align: center;
+        font-size: 35px;
+        background-color: rgb(180, 102, 6);
+    }
+
+
+    .diveig {
+        height: 350px;
+        width: 480px;
+    }
+
+    .photofive {
+        height: 100%;
+        width: 100%;
+    }
+
+    .spacefour {
+        height: 50px;
+        width: 480px;
+
+    }
+
+    .desktop1 {
+        display: none;
+    }
+
+    .desktop2 {
+        display: none;
+    }
+}
+
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 900px) and (-webkit-min-device-pixel-ratio: 1) {
+    body {
+        background-color: #0860d7;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .header {
+        color: white;
+        font-size: 30px;
+        text-align: end;
+        width: 900px;
+    }
+
+    .footer {
+        color: white;
+        font-size: 30px;
+    }
+
+    .sectionone {
+        width: 800px;
+        height: 500px;
+        background-image: url(tabbag.png);
+        margin-left: 50px;
+    }
+
+    .grid {
+        display: none;
+    }
+
+    .spaceone {
+        display: none;
+    }
+
+    .sectiontwo {
+        height: 700px;
+        width: 900px;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .pagone {
+        color: white;
+    }
+
+    .sectionthree {
+        width: 800px;
+        height: 1200px;
+        display: grid;
+        grid-template-columns: 800px;
+        margin: 20px 0px 20px;
+    }
+
+    .divone {
+        height: 600px;
+        width: 900px;
+        background-color: rgb(255, 255, 255);
+        font-size: 60px;
+
+    }
+
+    .divtwo {
+        height: 600px;
+        width: 900px;
+
+    }
+
+    .photothree {
+        width: 100%;
+        height: 100%;
+    }
+
+
+
+    .spacethree {
+        height: 100px;
+        width: 900px;
+        background-color: #0860d7;
+    }
+
+    .sectionfive {
+        height: 1100px;
+        width: 900px;
+    }
+
+    .divsev {
+        height: 200px;
+        width: 600px;
+        background-color: white;
+        border-radius: 40%;
+        margin-left: 120px;
+        padding-top: 25%;
+
+    }
+
+    .divnine {
+        text-align: center;
+        font-size: 50px;
+        background-color: rgb(180, 102, 6);
+
+    }
+
+    .diveig {
+        height: 650px;
+        width: 900px;
+    }
+
+    .photofive {
+        height: 100%;
+        width: 100%;
+    }
+
+    .spacefour {
+        height: 50px;
+        width: 900px;
+        display: none;
+    }
+
+    .desktop1 {
+        display: none;
+    }
+
+    .desktop2 {
+        display: none;
+    }
+}
+
+
+/*DESKTOP VERSION*/
+
+@media only screen and (min-device-width: 901px) and (-webkit-min-device-pixel-ratio: 1) {
+    body {
+        background-color: #0860d7;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .header {
+        color: white;
+        font-size: 40px;
+        text-align: end;
+        width: 1400px;
+    }
+
+    .footer {
+        color: white;
+        font-size: 40px;
+    }
+
+    .sectionone {
+        width: 1400px;
+        height: 700px;
+        background-image: url(deskbag.png);
+    }
+
+    .grid {
+        display: grid;
+        grid-template-columns: 40% 40% 20%;
+    }
+
+    .gridone {}
+
+    .booknoww {
+        height: 700px;
+        width: 732px;
+    }
+
+
+    .sectiontwo {
+
+        height: 500px;
+        width: 1400px;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .pagone {
+        color: white;
+    }
+
+    .sectionthree {
+        height: 500px;
+        width: 1400px;
+        display: flex;
+
+    }
+
+    .divone {
+        height: 500px;
+        width: 50%;
+        text-align: justify;
+        text-align: center;
+        font-size: 50px;
+        background-color: rgb(255, 255, 255);
+
+    }
+
+    .divtwo {
+        height: 500px;
+        width: 50%;
+
+    }
+
+    .photothree {
+        width: 100%;
+        height: 100%;
+    }
+
+
+
+    .spacethree {
+
+        height: 50px;
+        width: 1400px;
+
+    }
+
+    .sectionfive {
+        height: 500px;
+        width: 1400px;
+        display: flex;
+    }
+
+    .divsev {
+
+        height: 300px;
+        width: 50%;
+        background-color: white;
+        border-radius: 40%;
+        margin: 0px 40px 0px;
+        padding-top: 10%;
+    }
+
+    .diveig {
+
+        height: 500px;
+        width: 50%;
+    }
+
+    .photofive {
+
+        height: 100%;
+        width: 100%;
+    }
+
+    .divnine {
+        text-align: center;
+        font-size: 50px;
+        background-color: rgb(180, 102, 6);
+
+    }
+
+    .spacefour {
+        height: 50px;
+        width: 1400px;
+
+    }
+
+    .mobile1 {
+        display: none;
+    }
+
+    .mobile2 {
+        display: none;
+    }
+}
